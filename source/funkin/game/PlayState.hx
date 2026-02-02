@@ -898,16 +898,16 @@ class PlayState extends MusicBeatState
 		// Toggle botplay at runtime when the option changes
 		if (Options.botplay != botplay) {
 			botplay = Options.botplay;
-			for (strumLine in strumLines.members) if (strumLine != null && !strumLine.opponentSide) strumLine.cpu = botplay;
-			if (botplayTxt != null) botplayTxt.visible = botplay;
-		}
+            for (strumLine in strumLines.members) if (strumLine != null && !strumLine.opponentSide) strumLine.cpu = botplay;
+            if (botplayTxt != null) botplayTxt.visible = botplay;
+        }
 
-		// Run botplay autohit each frame if enabled
-		if (botplay) updateBotplay(elapsed);
-
-		for(e in [healthBar, healthBarBG, iconP1, iconP2, scoreTxt, missesTxt, accuracyTxt])
-			e.cameras = [camHUD];
-		#end
+        // Run botplay autohit each frame if enabled
+		if (botplay) updateBotplay(0);
+        
+        for(e in [healthBar, healthBarBG, iconP1, iconP2, scoreTxt, missesTxt, accuracyTxt])
+            e.cameras = [camHUD];
+    #end
 
 		startingSong = true;
 
@@ -947,13 +947,13 @@ class PlayState extends MusicBeatState
 
 		// Initialize botplay UI
 		botplayTxt = new FlxText(healthBar.x + healthBar.width / 2 - 75, healthBar.y + (Options.downscroll ? 100 : -100), 0, "BOTPLAY", 20);
-		botplayTxt.setFormat(Paths.font("vcr.ttf"), 42, FlxColor.WHITER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK, RIGHT);
-		botplayTxt.scrollFactor.set();
-		botplayTxt.borderSize = 3;
-		botplayTxt.cameras = [camHUD];
-		botplay = Options.botplay;
-		botplayTxt.visible = botplay;
-		add(botplayTxt);
+		botplayTxt.setFormat(Paths.font("vcr.ttf"), 42, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+        botplayTxt.scrollFactor.set();
+        botplayTxt.borderSize = 3;
+        botplayTxt.cameras = [camHUD];
+        botplay = Options.botplay;
+        botplayTxt.visible = botplay;
+        add(botplayTxt);
 
 		gameAndCharsCall("postCreate", null, "gamePostCreate");
 	}
@@ -2115,27 +2115,27 @@ class PlayState extends MusicBeatState
 	 * Auto-player: finds nearby notes and triggers hits for the player's strumline.
 	 */
 	public function botplayAutoHit():Void {
-		var pl = playingStrumline;
-		if (pl == null) return;
+		var pl = playerStrums;
+         if (pl == null) return;
 
-		if (botplayTxt != null) botplayTxt.visible = true;
+         if (botplayTxt != null) botplayTxt.visible = true;
 
-		var possible:Array<Note> = [];
-		// collect hittable notes
-		if (pl.notes != null) for (n in pl.notes.members) {
+         var possible:Array<Note> = [];
+         // collect hittable notes
+		if (pl.notes != null) for (n in cast(pl.notes.members:Array<Note>)) {
 			if (n == null) continue;
 			if (n.wasGoodHit) continue;
 			if (n.avoid) continue;
 			possible.push(n);
 		}
 
-		// sort by proximity to current song position
-		possible.sort(function(a:Note, b:Note):Int {
-			return Reflect.compare(Math.abs(Conductor.songPosition - a.strumTime), Math.abs(Conductor.songPosition - b.strumTime));
-		});
+         // sort by proximity to current song position
+         possible.sort(function(a:Note, b:Note):Int {
+             return Reflect.compare(Math.abs(Conductor.songPosition - a.strumTime), Math.abs(Conductor.songPosition - b.strumTime));
+         });
 
-		// hit tappable notes (non-sustain heads)
-		for (note in possible) {
+         // hit tappable notes (non-sustain heads)
+         for (note in possible) {
 			if (note == null) continue;
 			if (note.wasGoodHit) continue;
 			if (note.isSustainNote) continue;
@@ -2149,8 +2149,8 @@ class PlayState extends MusicBeatState
 			}
 		}
 
-		// handle sustain pieces that need hitting (mark sustain pieces as hit when passed)
-		if (pl.notes != null) for (n in pl.notes.members) {
+         // handle sustain pieces that need hitting (mark sustain pieces as hit when passed)
+		if (pl.notes != null) for (n in cast(pl.notes.members:Array<Note>)) {
 			if (n == null) continue;
 			if (!n.isSustainNote) continue;
 			if (n.wasGoodHit) continue;
