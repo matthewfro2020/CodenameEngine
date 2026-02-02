@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cookie.png">
+<SubTexture name="cookie idle0000" x="1409" y="0" width="638" height="545" frameX="-338" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0001" x="1409" y="0" width="638" height="545" frameX="-338" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0002" x="1409" y="0" width="638" height="545" frameX="-338" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0003" x="1409" y="0" width="638" height="545" frameX="-338" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0004" x="0" y="649" width="620" height="593" frameX="-374" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0005" x="620" y="649" width="601" height="588" frameX="-377" frameY="-130" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0006" x="620" y="649" width="601" height="588" frameX="-377" frameY="-130" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0007" x="620" y="649" width="601" height="588" frameX="-377" frameY="-130" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0008" x="620" y="649" width="601" height="588" frameX="-377" frameY="-130" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0009" x="1409" y="0" width="638" height="545" frameX="-338" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0010" x="1409" y="0" width="638" height="545" frameX="-338" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0011" x="1409" y="0" width="638" height="545" frameX="-338" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0012" x="1409" y="0" width="638" height="545" frameX="-338" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0013" x="708" y="0" width="701" height="632" frameX="-311" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0014" x="0" y="0" width="708" height="649" frameX="-303" frameY="-58" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0015" x="0" y="0" width="708" height="649" frameX="-303" frameY="-58" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0016" x="0" y="0" width="708" height="649" frameX="-303" frameY="-58" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cookie idle0017" x="0" y="0" width="708" height="649" frameX="-303" frameY="-58" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

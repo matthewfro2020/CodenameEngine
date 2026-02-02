@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="logo.png">
+<SubTexture name="logo idle0000" x="0" y="347" width="394" height="310" frameX="-24" frameY="-18" frameWidth="442" frameHeight="347" />
+<SubTexture name="logo idle0001" x="0" y="347" width="394" height="310" frameX="-24" frameY="-18" frameWidth="442" frameHeight="347" />
+<SubTexture name="logo idle0002" x="0" y="347" width="394" height="310" frameX="-24" frameY="-18" frameWidth="442" frameHeight="347" />
+<SubTexture name="logo idle0003" x="0" y="347" width="394" height="310" frameX="-24" frameY="-18" frameWidth="442" frameHeight="347" />
+<SubTexture name="logo idle0004" x="0" y="0" width="442" height="347" frameX="0" frameY="0" frameWidth="442" frameHeight="347" />
+<SubTexture name="logo idle0005" x="442" y="0" width="408" height="322" frameX="-17" frameY="-13" frameWidth="442" frameHeight="347" />
+<SubTexture name="logo idle0006" x="0" y="347" width="394" height="310" frameX="-24" frameY="-18" frameWidth="442" frameHeight="347" />
+</TextureAtlas>

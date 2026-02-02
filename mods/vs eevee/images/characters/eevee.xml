@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eevee.png">
+<SubTexture name="eevee idle0000" x="4147" y="4000" width="529" height="475" frameX="-48" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle0001" x="5299" y="467" width="520" height="464" frameX="-65" frameY="-372" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle0002" x="4196" y="4482" width="516" height="469" frameX="-65" frameY="-367" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle0003" x="4782" y="0" width="517" height="475" frameX="-60" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle0004" x="5299" y="2781" width="522" height="455" frameX="-38" frameY="-383" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle0005" x="717" y="4957" width="538" height="455" frameX="-22" frameY="-383" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle0006" x="5299" y="1395" width="526" height="462" frameX="-38" frameY="-376" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle0007" x="4782" y="0" width="517" height="475" frameX="-60" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle0008" x="4147" y="4000" width="529" height="475" frameX="-48" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right0000" x="1699" y="2964" width="504" height="517" frameX="-84" frameY="-320" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right0001" x="3226" y="1590" width="497" height="527" frameX="-71" frameY="-310" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right0002" x="1206" y="2964" width="493" height="526" frameX="-63" frameY="-311" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left0000" x="2605" y="547" width="473" height="543" frameX="-10" frameY="-293" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left0001" x="480" y="1875" width="477" height="547" frameX="-17" frameY="-288" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left0002" x="0" y="1875" width="480" height="548" frameX="-24" frameY="-286" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down0000" x="0" y="5773" width="528" height="322" frameX="-30" frameY="-523" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down0001" x="5072" y="5421" width="526" height="340" frameX="-30" frameY="-505" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down0002" x="0" y="5421" width="527" height="352" frameX="-29" frameY="-492" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up0000" x="920" y="2423" width="450" height="535" frameX="-35" frameY="-288" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up0001" x="3726" y="1033" width="450" height="510" frameX="-35" frameY="-314" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up0002" x="1439" y="3491" width="450" height="500" frameX="-35" frameY="-324" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up alt0000" x="1240" y="0" width="466" height="626" frameX="-36" frameY="-199" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up alt0001" x="1166" y="651" width="466" height="598" frameX="-36" frameY="-228" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up alt0002" x="1706" y="598" width="466" height="586" frameX="-36" frameY="-240" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down alt0000" x="528" y="5773" width="528" height="322" frameX="-30" frameY="-523" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down alt0001" x="5827" y="0" width="526" height="340" frameX="-30" frameY="-505" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down alt0002" x="1092" y="5421" width="526" height="347" frameX="-30" frameY="-497" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right alt0000" x="2203" y="2964" width="504" height="517" frameX="-84" frameY="-320" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right alt0001" x="3226" y="2117" width="497" height="527" frameX="-71" frameY="-310" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right alt0002" x="1370" y="2423" width="500" height="531" frameX="-64" frameY="-306" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left alt0000" x="2605" y="1090" width="473" height="543" frameX="-10" frameY="-293" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left alt0001" x="957" y="1875" width="477" height="547" frameX="-17" frameY="-288" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left alt0002" x="1434" y="1875" width="478" height="547" frameX="-20" frameY="-288" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee presparkle0000" x="4230" y="1444" width="490" height="477" frameX="-48" frameY="-362" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee presparkle0001" x="3482" y="3491" width="492" height="484" frameX="-51" frameY="-355" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0000" x="3726" y="2563" width="462" height="509" frameX="-115" frameY="-327" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0001" x="0" y="3491" width="475" height="509" frameX="-115" frameY="-327" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0002" x="2172" y="555" width="423" height="505" frameX="-111" frameY="-331" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0003" x="3726" y="1543" width="425" height="510" frameX="-114" frameY="-329" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0004" x="2172" y="555" width="423" height="505" frameX="-111" frameY="-331" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0005" x="3726" y="1543" width="425" height="510" frameX="-114" frameY="-329" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0006" x="2172" y="555" width="423" height="505" frameX="-111" frameY="-331" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0007" x="3726" y="1543" width="425" height="510" frameX="-114" frameY="-329" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0008" x="2172" y="555" width="423" height="505" frameX="-111" frameY="-331" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0009" x="3726" y="1543" width="425" height="510" frameX="-114" frameY="-329" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0010" x="2172" y="555" width="423" height="505" frameX="-111" frameY="-331" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle0011" x="3726" y="1543" width="425" height="510" frameX="-114" frameY="-329" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down vui0000" x="1056" y="5773" width="528" height="322" frameX="-30" frameY="-523" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down vui0001" x="5827" y="340" width="526" height="340" frameX="-30" frameY="-505" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down vui0002" x="2185" y="5421" width="526" height="344" frameX="-30" frameY="-500" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right vui0000" x="2711" y="5421" width="605" height="344" frameX="-46" frameY="-498" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right vui0001" x="3316" y="5421" width="601" height="343" frameX="-37" frameY="-501" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right vui0002" x="3917" y="5421" width="593" height="343" frameX="-37" frameY="-501" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up vui0000" x="5299" y="3691" width="443" height="430" frameX="-37" frameY="-401" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up vui0001" x="5299" y="4121" width="443" height="416" frameX="-37" frameY="-415" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up vui0002" x="5299" y="4537" width="443" height="409" frameX="-37" frameY="-423" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left vui0000" x="5827" y="1681" width="504" height="323" frameX="-54" frameY="-519" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left vui0001" x="5827" y="2004" width="504" height="323" frameX="-62" frameY="-517" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left vui0002" x="5827" y="1018" width="504" height="332" frameX="-68" frameY="-508" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee hey0000" x="1268" y="4000" width="564" height="479" frameX="-9" frameY="-352" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee hey0001" x="2541" y="4000" width="566" height="476" frameX="-15" frameY="-356" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee hey0002" x="527" y="5421" width="565" height="351" frameX="-18" frameY="-481" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee party0000" x="2666" y="4482" width="498" height="472" frameX="-83" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee party0001" x="3164" y="4482" width="498" height="472" frameX="-83" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee party0002" x="3164" y="4482" width="498" height="472" frameX="-83" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee party0003" x="2666" y="4482" width="498" height="472" frameX="-83" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0000" x="0" y="4482" width="529" height="475" frameX="-48" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0001" x="5299" y="931" width="520" height="464" frameX="-65" frameY="-372" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0002" x="4712" y="4482" width="516" height="469" frameX="-65" frameY="-367" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0003" x="4782" y="475" width="517" height="475" frameX="-60" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0004" x="4782" y="950" width="517" height="475" frameX="-60" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0005" x="4782" y="1425" width="517" height="475" frameX="-60" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0006" x="529" y="4482" width="539" height="475" frameX="-38" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0007" x="1255" y="4957" width="538" height="455" frameX="-22" frameY="-383" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0008" x="5299" y="3236" width="522" height="455" frameX="-38" frameY="-383" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0009" x="5299" y="1857" width="526" height="462" frameX="-38" frameY="-376" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0010" x="5299" y="2319" width="504" height="462" frameX="-60" frameY="-376" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0011" x="1068" y="4482" width="529" height="475" frameX="-48" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0012" x="1597" y="4482" width="529" height="475" frameX="-48" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee idle alt0013" x="0" y="4482" width="529" height="475" frameX="-48" frameY="-361" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0000" x="4782" y="1900" width="514" height="473" frameX="-59" frameY="-363" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0001" x="4230" y="1921" width="514" height="476" frameX="-58" frameY="-360" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0002" x="4782" y="2373" width="514" height="473" frameX="-59" frameY="-363" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0003" x="4230" y="2397" width="526" height="476" frameX="-46" frameY="-360" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0004" x="4782" y="2846" width="514" height="473" frameX="-59" frameY="-363" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0005" x="4230" y="2873" width="514" height="476" frameX="-58" frameY="-360" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0006" x="4230" y="3349" width="514" height="476" frameX="-58" frameY="-360" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0007" x="4782" y="3319" width="514" height="473" frameX="-59" frameY="-363" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0008" x="4782" y="2373" width="514" height="473" frameX="-59" frameY="-363" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0009" x="4230" y="3349" width="514" height="476" frameX="-58" frameY="-360" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0010" x="4782" y="3319" width="514" height="473" frameX="-59" frameY="-363" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0011" x="3107" y="4000" width="514" height="476" frameX="-58" frameY="-360" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0012" x="4782" y="3792" width="514" height="473" frameX="-59" frameY="-363" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0013" x="2126" y="4482" width="540" height="475" frameX="-35" frameY="-359" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0014" x="3662" y="4482" width="534" height="472" frameX="-45" frameY="-362" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0015" x="4914" y="4957" width="567" height="378" frameX="-43" frameY="-453" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0016" x="1618" y="5421" width="567" height="347" frameX="-31" frameY="-484" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0017" x="2113" y="5773" width="538" height="288" frameX="-78" frameY="-549" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0018" x="5749" y="5773" width="544" height="278" frameX="-78" frameY="-559" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0019" x="2113" y="5773" width="538" height="288" frameX="-78" frameY="-549" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0020" x="5749" y="5773" width="544" height="278" frameX="-78" frameY="-559" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0021" x="2113" y="5773" width="538" height="288" frameX="-78" frameY="-549" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0022" x="5749" y="5773" width="544" height="278" frameX="-78" frameY="-559" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0023" x="2113" y="5773" width="538" height="288" frameX="-78" frameY="-549" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0024" x="5749" y="5773" width="544" height="278" frameX="-78" frameY="-559" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0025" x="2113" y="5773" width="538" height="288" frameX="-78" frameY="-549" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0026" x="5749" y="5773" width="544" height="278" frameX="-78" frameY="-559" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0027" x="2651" y="5773" width="538" height="288" frameX="-78" frameY="-549" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0028" x="6353" y="0" width="544" height="278" frameX="-78" frameY="-559" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0029" x="6353" y="0" width="544" height="278" frameX="-78" frameY="-559" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0030" x="6353" y="0" width="544" height="278" frameX="-78" frameY="-559" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee laugh0031" x="6353" y="0" width="544" height="278" frameX="-78" frameY="-559" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0000" x="0" y="0" width="634" height="651" frameX="-20" frameY="-182" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0001" x="634" y="0" width="606" height="643" frameX="-48" frameY="-185" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0002" x="0" y="0" width="634" height="651" frameX="-20" frameY="-182" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0003" x="634" y="0" width="606" height="643" frameX="-48" frameY="-185" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0004" x="0" y="0" width="634" height="651" frameX="-20" frameY="-182" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0005" x="634" y="0" width="606" height="643" frameX="-48" frameY="-185" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0006" x="0" y="0" width="634" height="651" frameX="-20" frameY="-182" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0007" x="634" y="0" width="606" height="643" frameX="-48" frameY="-185" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0008" x="0" y="0" width="634" height="651" frameX="-20" frameY="-182" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0009" x="634" y="0" width="606" height="643" frameX="-48" frameY="-185" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0010" x="0" y="0" width="634" height="651" frameX="-20" frameY="-182" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0011" x="634" y="0" width="606" height="643" frameX="-48" frameY="-185" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee transition0012" x="0" y="0" width="634" height="651" frameX="-20" frameY="-182" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0000" x="0" y="6095" width="624" height="275" frameX="-12" frameY="-564" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0001" x="3488" y="4957" width="712" height="428" frameX="-60" frameY="-8" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0002" x="4200" y="4957" width="714" height="417" frameX="-60" frameY="0" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0003" x="1832" y="4000" width="709" height="479" frameX="-63" frameY="0" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0004" x="0" y="4957" width="717" height="464" frameX="-57" frameY="0" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0005" x="0" y="4000" width="714" height="482" frameX="-58" frameY="-8" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0006" x="0" y="6095" width="624" height="275" frameX="-12" frameY="-564" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0007" x="3189" y="5773" width="640" height="280" frameX="-5" frameY="-558" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0008" x="0" y="6095" width="624" height="275" frameX="-12" frameY="-564" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0009" x="3189" y="5773" width="640" height="280" frameX="-5" frameY="-558" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0010" x="3829" y="5773" width="640" height="280" frameX="-5" frameY="-558" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0011" x="624" y="6095" width="624" height="275" frameX="-12" frameY="-564" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0012" x="4469" y="5773" width="640" height="280" frameX="-5" frameY="-558" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0013" x="624" y="6095" width="624" height="275" frameX="-12" frameY="-564" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0014" x="4469" y="5773" width="640" height="280" frameX="-5" frameY="-558" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0015" x="624" y="6095" width="624" height="275" frameX="-12" frameY="-564" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0016" x="5109" y="5773" width="640" height="280" frameX="-5" frameY="-558" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0017" x="0" y="6095" width="624" height="275" frameX="-12" frameY="-564" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0018" x="3189" y="5773" width="640" height="280" frameX="-5" frameY="-558" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee vuivee0019" x="4510" y="5421" width="562" height="343" frameX="-48" frameY="-494" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left bb0000" x="5827" y="3279" width="522" height="315" frameX="-63" frameY="-524" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left bb0001" x="5827" y="3594" width="522" height="315" frameX="-63" frameY="-524" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left bb0002" x="5827" y="2327" width="526" height="318" frameX="-68" frameY="-521" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left bb0003" x="1584" y="5773" width="529" height="318" frameX="-68" frameY="-521" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right bb0000" x="1889" y="3491" width="552" height="490" frameX="-65" frameY="-347" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right bb0001" x="2441" y="3491" width="552" height="490" frameX="-65" frameY="-347" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right bb0002" x="4230" y="0" width="552" height="483" frameX="-57" frameY="-354" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right bb0003" x="714" y="4000" width="554" height="482" frameX="-53" frameY="-355" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down bb0000" x="5827" y="680" width="501" height="338" frameX="-47" frameY="-506" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down bb0001" x="3726" y="3072" width="504" height="344" frameX="-44" frameY="-499" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up bb0000" x="0" y="2423" width="460" height="541" frameX="-52" frameY="-286" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up bb0001" x="460" y="2423" width="460" height="541" frameX="-52" frameY="-286" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up bb0002" x="3726" y="517" width="463" height="516" frameX="-45" frameY="-312" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up bb0003" x="475" y="3491" width="463" height="508" frameX="-45" frameY="-320" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle20000" x="4230" y="483" width="489" height="482" frameX="-34" frameY="-352" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle20001" x="2993" y="3491" width="489" height="485" frameX="-32" frameY="-349" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle20002" x="4230" y="483" width="489" height="482" frameX="-34" frameY="-352" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle20003" x="2993" y="3491" width="489" height="485" frameX="-32" frameY="-349" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle20004" x="4230" y="483" width="489" height="482" frameX="-34" frameY="-352" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee sparkle20005" x="2993" y="3491" width="489" height="485" frameX="-32" frameY="-349" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right sparkle0000" x="3726" y="2053" width="504" height="510" frameX="-86" frameY="-327" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right sparkle0001" x="938" y="3491" width="501" height="508" frameX="-81" frameY="-330" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down sparkle0000" x="5827" y="1350" width="524" height="331" frameX="-33" frameY="-512" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down sparkle0001" x="5827" y="2963" width="521" height="316" frameX="-30" frameY="-527" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left sparkle0000" x="5827" y="3909" width="522" height="315" frameX="-63" frameY="-524" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left sparkle0001" x="5827" y="2645" width="526" height="318" frameX="-68" frameY="-521" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up sparkle0000" x="2172" y="0" width="433" height="555" frameX="-46" frameY="-272" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up sparkle0001" x="3226" y="1062" width="437" height="528" frameX="-40" frameY="-299" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee yea0000" x="1793" y="4957" width="564" height="451" frameX="-9" frameY="-380" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee yea0001" x="2357" y="4957" width="566" height="445" frameX="-15" frameY="-387" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee yea0002" x="2923" y="4957" width="565" height="438" frameX="-18" frameY="-394" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up alt 20000" x="0" y="651" width="466" height="626" frameX="-36" frameY="-199" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up alt 20001" x="1706" y="0" width="466" height="598" frameX="-36" frameY="-228" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up alt 20002" x="700" y="1277" width="466" height="586" frameX="-36" frameY="-240" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down silly0000" x="5299" y="0" width="528" height="467" frameX="-30" frameY="-378" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down silly0001" x="3621" y="4000" width="526" height="476" frameX="-30" frameY="-369" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee down silly0002" x="4230" y="965" width="526" height="479" frameX="-30" frameY="-365" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up silly0000" x="466" y="651" width="700" height="626" frameX="-36" frameY="-199" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up silly0001" x="0" y="1277" width="700" height="598" frameX="-36" frameY="-228" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee up silly0002" x="1166" y="1277" width="700" height="586" frameX="-36" frameY="-240" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right silly0000" x="2707" y="2964" width="708" height="517" frameX="-84" frameY="-320" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right silly0001" x="0" y="2964" width="709" height="527" frameX="-71" frameY="-310" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right silly0002" x="1870" y="2423" width="708" height="531" frameX="-64" frameY="-306" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left silly0000" x="2605" y="1633" width="612" height="543" frameX="-10" frameY="-293" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left silly0001" x="1912" y="1875" width="618" height="547" frameX="-17" frameY="-288" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee left silly0002" x="2605" y="0" width="621" height="547" frameX="-20" frameY="-288" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right alt 20000" x="3726" y="0" width="504" height="517" frameX="-84" frameY="-320" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right alt 20001" x="709" y="2964" width="497" height="527" frameX="-71" frameY="-310" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right alt 20002" x="2578" y="2423" width="500" height="531" frameX="-64" frameY="-306" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right alt 20003" x="3226" y="0" width="500" height="531" frameX="-64" frameY="-306" frameWidth="1280" frameHeight="1020" />
+<SubTexture name="eevee right alt 20004" x="3226" y="531" width="500" height="531" frameX="-64" frameY="-306" frameWidth="1280" frameHeight="1020" />
+</TextureAtlas>

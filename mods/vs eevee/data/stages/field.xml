@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.75">
+	<sprite x="-904" y="-493" sprite="stages/field" name="field"/>
+	<gf x="356" y="74"/>
+	<dad x="-33" y="39"/>
+	<bf x="854" y="52"/>
+	<combo x="596" y="327"/>
+	<sprite x="465" y="582" sprite="game/mic" name="mic"/>
+</stage>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chickpeacredit.png">
+<SubTexture name="chickpeacredit idle0000" x="1817" y="564" width="605" height="557" frameX="0" frameY="-143" frameWidth="606" frameHeight="703" />
+<SubTexture name="chickpeacredit idle0001" x="606" y="0" width="605" height="699" frameX="0" frameY="-1" frameWidth="606" frameHeight="703" />
+<SubTexture name="chickpeacredit idle0002" x="0" y="703" width="605" height="684" frameX="0" frameY="-16" frameWidth="606" frameHeight="703" />
+<SubTexture name="chickpeacredit idle0003" x="605" y="703" width="605" height="668" frameX="0" frameY="-32" frameWidth="606" frameHeight="703" />
+<SubTexture name="chickpeacredit idle0004" x="1817" y="0" width="606" height="564" frameX="0" frameY="-139" frameWidth="606" frameHeight="703" />
+<SubTexture name="chickpeacredit idle0005" x="0" y="0" width="606" height="703" frameX="0" frameY="0" frameWidth="606" frameHeight="703" />
+<SubTexture name="chickpeacredit idle0006" x="1211" y="0" width="606" height="685" frameX="0" frameY="-18" frameWidth="606" frameHeight="703" />
+<SubTexture name="chickpeacredit idle0007" x="1210" y="703" width="606" height="652" frameX="0" frameY="-51" frameWidth="606" frameHeight="703" />
+</TextureAtlas>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neary-dj.png">
+<SubTexture name="neary-dj prebump0000" x="876" y="1176" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj prebump0001" x="1315" y="1176" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj prebump0002" x="1224" y="573" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj bump0000" x="437" y="603" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj bump0001" x="1224" y="0" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj bump0002" x="1224" y="573" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj bump0003" x="1224" y="573" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj bump0004" x="1224" y="573" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj bump0005" x="1224" y="573" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj bump0006" x="1224" y="573" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj bump0007" x="1224" y="573" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj bump0008" x="1224" y="573" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj bump0009" x="1224" y="573" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj presparkle0000" x="1960" y="1749" width="439" height="559" frameX="-283" frameY="-64" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0000" x="2095" y="0" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0001" x="2095" y="0" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0002" x="2095" y="0" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0003" x="2095" y="0" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0004" x="2095" y="0" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0005" x="2095" y="0" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0006" x="2095" y="570" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0007" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0008" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0009" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0010" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0011" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0012" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0013" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0014" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0015" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0016" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0017" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0018" x="2095" y="1140" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0019" x="2095" y="570" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0020" x="2095" y="0" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj transition0021" x="1960" y="1749" width="439" height="559" frameX="-283" frameY="-64" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj preclap0000" x="1317" y="1749" width="643" height="570" frameX="-226" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj clap0000" x="2534" y="0" width="686" height="570" frameX="-219" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj clap0001" x="2534" y="570" width="643" height="570" frameX="-226" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj clap0002" x="2534" y="1140" width="686" height="570" frameX="-219" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj clap0003" x="2534" y="1710" width="643" height="570" frameX="-226" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj clap0004" x="2534" y="1140" width="686" height="570" frameX="-219" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj clap0005" x="2534" y="1710" width="643" height="570" frameX="-226" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj clap0006" x="2534" y="1140" width="686" height="570" frameX="-219" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj clap0007" x="2534" y="1710" width="643" height="570" frameX="-226" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj preclap0001" x="0" y="2319" width="643" height="570" frameX="-226" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj presparkle0001" x="1960" y="1749" width="439" height="559" frameX="-283" frameY="-64" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle0000" x="0" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle0001" x="439" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle0002" x="0" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle0003" x="439" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle0004" x="0" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle0005" x="439" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj presparkle0002" x="1960" y="1749" width="439" height="559" frameX="-283" frameY="-64" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle20000" x="0" y="0" width="395" height="603" frameX="-369" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle20001" x="395" y="0" width="395" height="603" frameX="-369" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle20002" x="0" y="0" width="395" height="603" frameX="-369" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle20003" x="395" y="0" width="395" height="603" frameX="-369" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle20004" x="0" y="0" width="395" height="603" frameX="-369" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj sparkle20005" x="395" y="0" width="395" height="603" frameX="-369" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0000" x="437" y="1176" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0001" x="1539" y="2319" width="450" height="545" frameX="-268" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0002" x="643" y="2319" width="448" height="552" frameX="-275" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0003" x="643" y="2319" width="448" height="552" frameX="-275" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0004" x="437" y="1176" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0005" x="437" y="1176" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0006" x="437" y="1176" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0007" x="437" y="1176" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0008" x="437" y="1176" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0009" x="790" y="0" width="434" height="573" frameX="-314" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0010" x="0" y="603" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0011" x="437" y="1176" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle0012" x="437" y="1176" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0000" x="878" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0001" x="1989" y="2319" width="450" height="545" frameX="-268" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0002" x="1091" y="2319" width="448" height="552" frameX="-275" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0003" x="1091" y="2319" width="448" height="552" frameX="-275" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0004" x="878" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0005" x="878" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0006" x="878" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0007" x="878" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0008" x="1661" y="0" width="434" height="573" frameX="-314" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0009" x="0" y="1176" width="437" height="573" frameX="-308" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0010" x="878" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary-dj idle alt0011" x="878" y="1749" width="439" height="570" frameX="-299" frameY="-53" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

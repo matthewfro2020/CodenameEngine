@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="-450" y="-350" sprite="chu stand" flipX="true" isPlayer="true" icon="chu" color="#FFE161" gameOverChar="chu dead" imagePath="chu stand.png">
+	<anim name="idle" anim="chu stand idle0" x="0" y="0" fps="6" loop="true"/>
+	<anim name="singDOWN" anim="chu stand down0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWNmiss" anim="chu stand down miss0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP" anim="chu stand up0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUPmiss" anim="chu stand up miss0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT" anim="chu stand left0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFTmiss" anim="chu stand left miss0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT" anim="chu stand right0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHTmiss" anim="chu stand right miss0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT-alt" anim="chu stand go0" x="0" y="0" fps="12" loop="false"/>
+</character>

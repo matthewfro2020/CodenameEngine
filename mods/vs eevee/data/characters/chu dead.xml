@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="chu dead" camx="-230" camy="100" icon="chu" imagePath="chu-dead.png">
+	<anim name="firstDeath" anim="chu-dead die0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="deathLoop" anim="chu-dead deathloop0" x="0" y="0" fps="12" loop="false"/>
+</character>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chu.png">
+<SubTexture name="chu idle0000" x="501" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu idle0001" x="3031" y="0" width="501" height="378" frameX="-767" frameY="-728" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu idle0002" x="499" y="2421" width="502" height="382" frameX="-765" frameY="-724" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu idle0003" x="501" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu up0000" x="0" y="0" width="501" height="427" frameX="-767" frameY="-678" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu up0001" x="0" y="427" width="500" height="404" frameX="-767" frameY="-701" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu up0002" x="1516" y="800" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu up miss0000" x="501" y="0" width="501" height="427" frameX="-767" frameY="-678" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu up miss0001" x="514" y="1231" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu down0000" x="0" y="3176" width="504" height="348" frameX="-764" frameY="-758" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu down0001" x="2517" y="2804" width="504" height="366" frameX="-764" frameY="-740" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu down0002" x="0" y="2804" width="504" height="372" frameX="-764" frameY="-734" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu down miss0000" x="504" y="3176" width="504" height="348" frameX="-764" frameY="-758" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu down miss0001" x="504" y="2804" width="504" height="372" frameX="-764" frameY="-734" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu right0000" x="1001" y="2421" width="496" height="382" frameX="-772" frameY="-724" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu right0001" x="2528" y="1563" width="499" height="383" frameX="-769" frameY="-723" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu right miss0000" x="1497" y="2421" width="496" height="382" frameX="-772" frameY="-724" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu right miss0001" x="2528" y="1946" width="499" height="383" frameX="-769" frameY="-723" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu left0000" x="1002" y="0" width="514" height="400" frameX="-754" frameY="-706" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu left0001" x="1002" y="400" width="511" height="400" frameX="-757" frameY="-706" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu left0002" x="0" y="831" width="511" height="400" frameX="-757" frameY="-706" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu left miss0000" x="511" y="831" width="514" height="400" frameX="-754" frameY="-706" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu left miss0001" x="1516" y="0" width="511" height="400" frameX="-757" frameY="-706" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu up alt0000" x="500" y="427" width="501" height="403" frameX="-767" frameY="-702" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu up alt0001" x="2528" y="1175" width="501" height="388" frameX="-767" frameY="-718" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu down alt0000" x="3021" y="2804" width="504" height="358" frameX="-764" frameY="-748" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu down alt0001" x="1008" y="2804" width="504" height="372" frameX="-764" frameY="-734" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu right alt0000" x="1993" y="2421" width="496" height="382" frameX="-772" frameY="-724" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu right alt0001" x="0" y="2421" width="499" height="383" frameX="-769" frameY="-723" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu left alt0000" x="0" y="1231" width="514" height="400" frameX="-754" frameY="-706" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu left alt0001" x="1516" y="400" width="511" height="400" frameX="-757" frameY="-706" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu idle alt0000" x="3532" y="0" width="502" height="358" frameX="-766" frameY="-748" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu idle alt0001" x="1512" y="2804" width="502" height="372" frameX="-765" frameY="-734" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu idle alt0002" x="2489" y="2421" width="502" height="382" frameX="-765" frameY="-724" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0000" x="1004" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0001" x="1507" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0002" x="1004" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0003" x="1507" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0004" x="1004" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0005" x="1507" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0006" x="2010" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0007" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0008" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0009" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0010" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0011" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0012" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0013" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0014" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0015" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0016" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0017" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0018" x="2528" y="0" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0019" x="2010" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0020" x="1004" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0021" x="1507" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0022" x="1004" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0023" x="1507" y="2026" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0024" x="2528" y="393" width="503" height="393" frameX="-765" frameY="-713" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0025" x="2014" y="2804" width="503" height="369" frameX="-765" frameY="-737" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu transition0026" x="2528" y="786" width="503" height="389" frameX="-765" frameY="-717" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu down bb0000" x="1015" y="1231" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu down bb0001" x="1516" y="1231" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu down bb0002" x="0" y="1631" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu right bb0000" x="501" y="1631" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu right bb0001" x="1002" y="1631" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu right bb0002" x="1503" y="1631" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu up bb0000" x="2027" y="0" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu up bb0001" x="2027" y="395" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu up bb0002" x="2027" y="790" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu left bb0000" x="2027" y="1185" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu left bb0001" x="2027" y="1580" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu left bb0002" x="0" y="2026" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+</TextureAtlas>

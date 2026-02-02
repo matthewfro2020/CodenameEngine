@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-character>
+<character x="-450" y="-350" sprite="chu" flipX="true" isPlayer="true" icon="chu" color="#FFE161" gameOverChar="chu dead" imagePath="chu.png">
+	<anim name="idle" anim="chu idle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP" anim="chu up0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUPmiss" anim="chu up miss0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN" anim="chu down0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWNmiss" anim="chu down miss0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT" anim="chu right0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHTmiss" anim="chu right miss0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT" anim="chu left0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFTmiss" anim="chu left miss0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP-alt" anim="chu up alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN-alt" anim="chu down alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT-alt" anim="chu right alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT-alt" anim="chu left alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="idle-alt" anim="chu idle alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="transition" anim="chu transition0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN-altbb" anim="chu down bb" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP-altbb" anim="chu up bb" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT-altbb" anim="chu left bb" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT-altbb" anim="chu right bb" x="0" y="0" fps="12" loop="false"/>
+</character>

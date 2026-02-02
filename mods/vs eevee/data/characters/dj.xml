@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="dj" icon="neary" imagePath="dj.png">
+	<anim name="idle" anim="dj idle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="dotw" anim="dj dotw0" x="0" y="0" fps="12" loop="false"/>
+</character>

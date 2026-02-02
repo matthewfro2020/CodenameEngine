@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="neary-dj" icon="neary" imagePath="neary-dj.png">
+	<anim name="prebump" anim="neary-dj prebump0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="bump" anim="neary-dj bump0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="presparkle" anim="neary-dj presparkle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="transition" anim="neary-dj transition0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="preclap" anim="neary-dj preclap0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="clap" anim="neary-dj clap0" x="0" y="0" fps="8" loop="false"/>
+	<anim name="sparkle" anim="neary-dj sparkle0" x="0" y="0" fps="12" loop="true"/>
+	<anim name="idle" anim="neary-dj idle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="idle-alt" anim="neary-dj idle alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="sparkle2" anim="neary-dj sparkle2" x="0" y="0" fps="12" loop="true"/>
+</character>

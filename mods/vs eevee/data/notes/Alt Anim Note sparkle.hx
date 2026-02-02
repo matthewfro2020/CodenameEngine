@@ -1,0 +1,2 @@
+function onNoteHit(event) if (event.noteType == "Alt Anim Note sparkle") event.animSuffix = "-altsparkle";
+function onPlayerMiss(event) if (event.noteType == "Alt Anim Note sparkle") event.animSuffix = "-altsparkle";

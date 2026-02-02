@@ -1,0 +1,12 @@
+{
+  "name": "stickers-set-1",
+  "artist": "stubbypubby",
+  "stickers": {
+    "chu": ["chuSticker1", "chuSticker2", "chuSticker3"],
+    "neary": ["nearySticker1", "nearySticker2", "nearySticker3"],
+    "eevee": ["eeveeSticker1", "eeveeSticker2", "eeveeSticker3"]
+  },
+  "stickerPacks": {
+    "all": ["chu", "neary", "eevee"]
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Visible",
+            "type": "Bool",
+            "defaultValue": false
+     }
+    ]
+}

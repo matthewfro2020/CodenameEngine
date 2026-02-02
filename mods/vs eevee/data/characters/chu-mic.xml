@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="-600" y="70" sprite="chu-mic" flipX="true" camy="50" isPlayer="true" icon="chu" color="#FFE161" gameOverChar="chu-dead" imagePath="chu-mic.png">
+	<anim name="singUP" anim="chu-mic up0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUPmiss" anim="chu-mic miss up0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN" anim="chu-mic down0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWNmiss" anim="chu-mic miss down0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT" anim="chu-mic left0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFTmiss" anim="chu-mic miss left0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT" anim="chu-mic right0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHTmiss" anim="chu-mic miss right0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="chu-mic hey" anim="chu-mic hey0" x="0" y="0" fps="12" loop="true"/>
+	<anim name="chu-mic ah" anim="chu-mic ah0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="idle" anim="chu-mic idle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="pika" anim="chu-mic bruh0" x="20" y="444" fps="12" loop="false"/>
+</character>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chu hype.png">
+<SubTexture name="chu hype up miss0000" x="0" y="0" width="501" height="427" frameX="-767" frameY="-678" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype up miss0001" x="1556" y="802" width="501" height="395" frameX="-767" frameY="-711" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype down miss0000" x="0" y="2389" width="504" height="348" frameX="-764" frameY="-758" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype down miss0001" x="503" y="2012" width="504" height="372" frameX="-764" frameY="-734" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype right miss0000" x="499" y="1629" width="496" height="382" frameX="-772" frameY="-724" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype right miss0001" x="0" y="1629" width="499" height="383" frameX="-769" frameY="-723" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype left miss0000" x="0" y="1229" width="514" height="400" frameX="-754" frameY="-706" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype left miss0001" x="514" y="1229" width="511" height="400" frameX="-757" frameY="-706" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype pi0000" x="2554" y="349" width="489" height="336" frameX="-779" frameY="-774" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype ka0000" x="0" y="427" width="555" height="401" frameX="-725" frameY="-715" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype ka0001" x="1001" y="0" width="555" height="401" frameX="-725" frameY="-715" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype ka0002" x="1001" y="401" width="555" height="401" frameX="-725" frameY="-715" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype ka0003" x="0" y="828" width="555" height="401" frameX="-725" frameY="-715" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype ka0004" x="555" y="828" width="555" height="401" frameX="-725" frameY="-715" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype ka0005" x="1001" y="401" width="555" height="401" frameX="-725" frameY="-715" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype idle0000" x="2015" y="2012" width="504" height="363" frameX="-764" frameY="-743" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype idle0001" x="0" y="2012" width="503" height="377" frameX="-765" frameY="-729" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype idle0002" x="995" y="1629" width="502" height="382" frameX="-765" frameY="-724" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype down0000" x="2554" y="0" width="503" height="349" frameX="-764" frameY="-757" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype down0001" x="1511" y="2012" width="504" height="366" frameX="-764" frameY="-740" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype down0002" x="1007" y="2012" width="504" height="372" frameX="-764" frameY="-734" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype up0000" x="501" y="0" width="500" height="409" frameX="-767" frameY="-696" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype up0001" x="1556" y="0" width="501" height="401" frameX="-767" frameY="-704" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype up0002" x="1556" y="401" width="501" height="401" frameX="-767" frameY="-704" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype right0000" x="1497" y="1629" width="496" height="382" frameX="-772" frameY="-724" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype right0001" x="2057" y="0" width="497" height="382" frameX="-771" frameY="-724" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype left0000" x="1025" y="1229" width="514" height="400" frameX="-754" frameY="-706" frameWidth="1280" frameHeight="1620" />
+<SubTexture name="chu hype left0001" x="1539" y="1229" width="510" height="399" frameX="-758" frameY="-707" frameWidth="1280" frameHeight="1620" />
+</TextureAtlas>

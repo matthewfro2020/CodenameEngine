@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neary.png">
+<SubTexture name="neary idle0000" x="2524" y="564" width="395" height="548" frameX="-201" frameY="-126" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary idle0001" x="2755" y="3061" width="384" height="527" frameX="-236" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary idle0002" x="0" y="3061" width="384" height="540" frameX="-205" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary idle0003" x="3768" y="521" width="393" height="520" frameX="-167" frameY="-150" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary idle0004" x="1951" y="3061" width="402" height="533" frameX="-173" frameY="-137" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary up0000" x="3768" y="0" width="486" height="521" frameX="-137" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary up0001" x="3768" y="1561" width="482" height="513" frameX="-138" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary up0002" x="3768" y="2074" width="485" height="511" frameX="-134" frameY="-155" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary down0000" x="4254" y="1877" width="514" height="438" frameX="-166" frameY="-235" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary down0001" x="4254" y="991" width="513" height="445" frameX="-168" frameY="-226" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary down0002" x="4254" y="1436" width="517" height="441" frameX="-165" frameY="-228" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary left0000" x="566" y="4107" width="574" height="470" frameX="-10" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary left0001" x="1140" y="4107" width="570" height="465" frameX="-16" frameY="-206" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary left0002" x="0" y="4107" width="566" height="471" frameX="-18" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary right0000" x="860" y="665" width="412" height="617" frameX="-246" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary right0001" x="1584" y="614" width="401" height="613" frameX="-251" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary right0002" x="453" y="665" width="407" height="619" frameX="-247" frameY="-54" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary peace0000" x="672" y="0" width="459" height="629" frameX="-218" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary peace0001" x="1131" y="0" width="453" height="629" frameX="-224" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary peace0002" x="0" y="665" width="453" height="629" frameX="-224" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary giggle0000" x="2247" y="3601" width="561" height="502" frameX="-115" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary giggle0001" x="3368" y="3601" width="561" height="497" frameX="-117" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary giggle0002" x="0" y="3601" width="561" height="506" frameX="-113" frameY="-179" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary giggle0003" x="2247" y="3601" width="561" height="502" frameX="-115" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary giggle0004" x="3368" y="3601" width="561" height="497" frameX="-117" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary giggle0005" x="0" y="3601" width="561" height="506" frameX="-113" frameY="-179" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary giggle0006" x="2247" y="3601" width="561" height="502" frameX="-115" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary giggle0007" x="3368" y="3601" width="561" height="497" frameX="-117" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary giggle0008" x="0" y="3601" width="561" height="506" frameX="-113" frameY="-179" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary idle alt0000" x="2524" y="1112" width="395" height="548" frameX="-201" frameY="-126" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary idle alt0001" x="3139" y="3061" width="384" height="527" frameX="-236" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary idle alt0002" x="384" y="3061" width="384" height="540" frameX="-205" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary idle alt0003" x="3768" y="1041" width="393" height="520" frameX="-167" frameY="-150" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary idle alt0004" x="2353" y="3061" width="402" height="533" frameX="-173" frameY="-137" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary idle alt0005" x="768" y="3061" width="411" height="540" frameX="-178" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0000" x="1179" y="3061" width="386" height="538" frameX="-237" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0001" x="3376" y="543" width="386" height="542" frameX="-233" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0002" x="2524" y="1660" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0003" x="956" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0004" x="2524" y="1660" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0005" x="956" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0006" x="2524" y="1660" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0007" x="956" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0008" x="2524" y="1660" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0009" x="956" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0010" x="2524" y="1660" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0011" x="956" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0012" x="3376" y="1627" width="388" height="541" frameX="-234" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0013" x="3376" y="2168" width="388" height="541" frameX="-234" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0014" x="2886" y="2510" width="392" height="543" frameX="-233" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0015" x="2948" y="558" width="349" height="551" frameX="-283" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0016" x="2948" y="1109" width="349" height="551" frameX="-283" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0017" x="2948" y="1660" width="349" height="551" frameX="-283" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0018" x="2948" y="1660" width="349" height="551" frameX="-283" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0019" x="2948" y="1660" width="349" height="551" frameX="-283" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0020" x="2948" y="1660" width="349" height="551" frameX="-283" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0021" x="2948" y="1660" width="349" height="551" frameX="-283" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary woah0022" x="2948" y="1660" width="349" height="551" frameX="-283" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary didit0000" x="1342" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary didit0001" x="1728" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary didit0002" x="1342" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary didit0003" x="1565" y="3061" width="386" height="538" frameX="-237" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary didit0004" x="3376" y="1085" width="386" height="542" frameX="-233" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary didit0005" x="2114" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary didit0006" x="2500" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary didit0007" x="2114" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary didit0008" x="2500" y="2510" width="386" height="545" frameX="-228" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0000" x="2247" y="3601" width="561" height="502" frameX="-115" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0001" x="3368" y="3601" width="561" height="497" frameX="-117" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0002" x="0" y="3601" width="561" height="506" frameX="-113" frameY="-179" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0003" x="2247" y="3601" width="561" height="502" frameX="-115" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0004" x="3368" y="3601" width="561" height="497" frameX="-117" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0005" x="0" y="3601" width="561" height="506" frameX="-113" frameY="-179" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0006" x="2247" y="3601" width="561" height="502" frameX="-115" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0007" x="3368" y="3601" width="561" height="497" frameX="-117" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0008" x="0" y="3601" width="561" height="506" frameX="-113" frameY="-179" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0009" x="4254" y="497" width="559" height="494" frameX="-114" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0010" x="4254" y="0" width="560" height="497" frameX="-115" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0011" x="2808" y="3601" width="560" height="500" frameX="-118" frameY="-181" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0012" x="4254" y="497" width="559" height="494" frameX="-114" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0013" x="4254" y="0" width="560" height="497" frameX="-115" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0014" x="2808" y="3601" width="560" height="500" frameX="-118" frameY="-181" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0015" x="4254" y="497" width="559" height="494" frameX="-114" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0016" x="4254" y="0" width="560" height="497" frameX="-115" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0017" x="2808" y="3601" width="560" height="500" frameX="-118" frameY="-181" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0018" x="4254" y="497" width="559" height="494" frameX="-114" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0019" x="4254" y="0" width="560" height="497" frameX="-115" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0020" x="2808" y="3601" width="560" height="500" frameX="-118" frameY="-181" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0021" x="4254" y="497" width="559" height="494" frameX="-114" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0022" x="4254" y="0" width="560" height="497" frameX="-115" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0023" x="2808" y="3601" width="560" height="500" frameX="-118" frameY="-181" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0024" x="561" y="3601" width="562" height="506" frameX="-94" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0025" x="1123" y="3601" width="562" height="506" frameX="-94" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0026" x="1685" y="3601" width="562" height="506" frameX="-94" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0027" x="1685" y="3601" width="562" height="506" frameX="-94" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0028" x="1685" y="3601" width="562" height="506" frameX="-94" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0029" x="1685" y="3601" width="562" height="506" frameX="-94" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0030" x="1710" y="1905" width="459" height="604" frameX="-196" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0031" x="0" y="1294" width="457" height="611" frameX="-196" frameY="-75" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0032" x="457" y="1294" width="461" height="610" frameX="-197" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0033" x="1710" y="1905" width="459" height="604" frameX="-196" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0034" x="0" y="1294" width="457" height="611" frameX="-196" frameY="-75" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0035" x="457" y="1294" width="461" height="610" frameX="-197" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0036" x="1710" y="1905" width="459" height="604" frameX="-196" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0037" x="0" y="1294" width="457" height="611" frameX="-196" frameY="-75" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0038" x="457" y="1294" width="461" height="610" frameX="-197" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0039" x="1710" y="1905" width="459" height="604" frameX="-196" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0040" x="0" y="1294" width="457" height="611" frameX="-196" frameY="-75" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0041" x="457" y="1294" width="461" height="610" frameX="-197" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0042" x="1584" y="0" width="470" height="614" frameX="-191" frameY="-75" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0043" x="918" y="1294" width="470" height="605" frameX="-191" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0044" x="1388" y="1294" width="470" height="605" frameX="-191" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0045" x="1388" y="1294" width="470" height="605" frameX="-191" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0046" x="2054" y="0" width="470" height="605" frameX="-191" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0047" x="2054" y="605" width="470" height="605" frameX="-191" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0048" x="2054" y="1210" width="470" height="605" frameX="-191" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0049" x="2054" y="1210" width="470" height="605" frameX="-191" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0050" x="2054" y="605" width="470" height="605" frameX="-191" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0051" x="0" y="1905" width="470" height="605" frameX="-191" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0052" x="470" y="1905" width="470" height="605" frameX="-191" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0053" x="3376" y="0" width="392" height="543" frameX="-233" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0054" x="0" y="2510" width="478" height="551" frameX="-200" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0055" x="0" y="2510" width="478" height="551" frameX="-200" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0056" x="0" y="2510" width="478" height="551" frameX="-200" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0057" x="0" y="2510" width="478" height="551" frameX="-200" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0058" x="0" y="2510" width="478" height="551" frameX="-200" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0059" x="0" y="2510" width="478" height="551" frameX="-200" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0060" x="478" y="2510" width="478" height="551" frameX="-200" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0061" x="478" y="2510" width="478" height="551" frameX="-200" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0062" x="478" y="2510" width="478" height="551" frameX="-200" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary end0063" x="478" y="2510" width="478" height="551" frameX="-200" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary right alt0000" x="2524" y="0" width="424" height="564" frameX="-269" frameY="-130" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary right alt0001" x="2948" y="0" width="428" height="558" frameX="-271" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary right alt0002" x="2524" y="0" width="424" height="564" frameX="-269" frameY="-130" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary right alt0003" x="2948" y="0" width="428" height="558" frameX="-271" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary left alt0000" x="940" y="1905" width="387" height="605" frameX="-195" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary left alt0001" x="1327" y="1905" width="383" height="605" frameX="-197" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary left alt0002" x="940" y="1905" width="387" height="605" frameX="-195" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary left alt0003" x="1327" y="1905" width="383" height="605" frameX="-197" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary up alt0000" x="0" y="0" width="336" height="665" frameX="-227" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary up alt0001" x="336" y="0" width="336" height="641" frameX="-227" frameY="-44" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary up alt0002" x="0" y="0" width="336" height="665" frameX="-227" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary up alt0003" x="336" y="0" width="336" height="641" frameX="-227" frameY="-44" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary down alt0000" x="4254" y="2315" width="444" height="365" frameX="-225" frameY="-318" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary down alt0001" x="4254" y="2680" width="448" height="354" frameX="-226" frameY="-328" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary down alt0002" x="4254" y="2315" width="444" height="365" frameX="-225" frameY="-318" frameWidth="1280" frameHeight="720" />
+<SubTexture name="neary down alt0003" x="4254" y="2680" width="448" height="354" frameX="-226" frameY="-328" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

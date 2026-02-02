@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-week>
+<week name="BDAY VEEDAY" chars="none,cookie" sprite="week1">
+<difficulty name="normal"/>
+<difficulty name="hard"/>
+	<song>birthday girl</song>
+</week>

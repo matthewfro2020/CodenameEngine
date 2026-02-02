@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character x="-150" y="50" sprite="neary" camx="-150" camy="50" icon="neary" color="#FDA1A1" imagePath="neary.png">
+	<anim name="idle" anim="neary idle0" x="0" y="0" fps="10" loop="true"/>
+	<anim name="singUP" anim="neary up0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN" anim="neary down0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT" anim="neary left0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT" anim="neary right0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="peace" anim="neary peace0" x="0" y="0" fps="6" loop="false"/>
+	<anim name="giggle" anim="neary giggle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="idle-alt" anim="neary idle alt0" x="0" y="0" fps="12" loop="true"/>
+	<anim name="woah" anim="neary woah0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="woah2" anim="neary didit0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="end" anim="neary end0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT-alt" anim="neary right alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT-alt" anim="neary left alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP-alt" anim="neary up alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN-alt" anim="neary down alt0" x="0" y="0" fps="12" loop="false"/>
+</character>

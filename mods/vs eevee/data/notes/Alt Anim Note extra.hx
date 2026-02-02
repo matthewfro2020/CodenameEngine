@@ -1,0 +1,2 @@
+function onNoteHit(event) if (event.noteType == "Alt Anim Note extra") event.animSuffix = "-altextra";
+function onPlayerMiss(event) if (event.noteType == "Alt Anim Note extra") event.animSuffix = "-altextra";

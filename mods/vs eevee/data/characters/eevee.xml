@@ -1,0 +1,40 @@
+<!DOCTYPE codename-engine-character>
+<character y="-50" sprite="eevee" camx="-260" camy="40" icon="eevee" color="#E47F2C" imagePath="eevee.png">
+	<anim name="idle" anim="eevee idle0" x="0" y="0" fps="12" loop="true"/>
+	<anim name="singRIGHT" anim="eevee right0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT" anim="eevee left0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN" anim="eevee down0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP" anim="eevee up0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP-alt" anim="eevee up alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN-alt" anim="eevee down alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT-alt" anim="eevee right alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT-alt" anim="eevee left alt0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="presparkle" anim="eevee presparkle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="sparkle" anim="eevee sparkle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT-altyea" anim="eevee hey0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="party" anim="eevee party0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="idle-alt" anim="eevee idle alt0" x="0" y="0" fps="12" loop="true"/>
+	<anim name="laugh" anim="eevee laugh0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="transition" anim="eevee transition0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="vuivee" anim="eevee vuivee0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP-altyea" anim="eevee yea0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="sparkle2" anim="eevee sparkle2" x="0" y="0" fps="12" loop="true"/>
+	<anim name="singUP-altsparkle" anim="eevee up sparkle" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN-altsparkle" anim="eevee down sparkle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT-altsparkle" anim="eevee left sparkle" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT-altsparkle" anim="eevee right sparkle" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP-altbb" anim="eevee up bb" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN-altbb" anim="eevee down bb" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT-altbb" anim="eevee left bb" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT-altbb" anim="eevee right bb" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP-altvui" anim="eevee up vui" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN-altvui" anim="eevee down vui" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT-altvui" anim="eevee left vui" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT-altvui" anim="eevee right vui" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP-altsilly" anim="eevee up silly" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN-altsilly" anim="eevee down silly" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT-altsilly" anim="eevee right silly" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singLEFT-altsilly" anim="eevee left silly" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP-altextra" anim="eevee up alt 2" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT-altextra" anim="eevee right alt 2" x="0" y="0" fps="12" loop="true"/>
+</character>

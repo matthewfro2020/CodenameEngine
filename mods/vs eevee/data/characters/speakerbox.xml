@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-150" y="100" sprite="speakerbox" icon="gf" imagePath="speakerbox.png">
+	<anim name="idle" anim="speakerbox idle0" x="0" y="0" fps="12" loop="false"/>
+</character>

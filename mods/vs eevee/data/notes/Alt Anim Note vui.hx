@@ -1,0 +1,2 @@
+function onNoteHit(event) if (event.noteType == "Alt Anim Note vui") event.animSuffix = "-altvui";
+function onPlayerMiss(event) if (event.noteType == "Alt Anim Note vui") event.animSuffix = "-altvui";
